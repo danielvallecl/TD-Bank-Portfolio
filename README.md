@@ -2,8 +2,8 @@
 
 # TD Bank Application Portfolio
 
-Portfolio of Applications Developed for TD Bank. Applications are proprietary and private.
+Portfolio of Applications Developed for TD Bank.
 
-- [TD Diamond Automated Pipeline](https://github.com/danielvallecl/td-bank-applications/tree/main/td-diamond)
+- [TD Diamond AWK and Python Automated Pipeline](https://github.com/danielvallecl/td-bank-applications/tree/main/td-diamond)
 - [Document Manager Application](https://github.com/danielvallecl/td-bank-applications/tree/main/td-document-manager)
 - [Hockey Card Application](https://github.com/danielvallecl/td-bank-applications/tree/main/td-hockey-card)
